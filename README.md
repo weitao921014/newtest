@@ -8,3 +8,4 @@ I am trying to control the powerful tool. Can you help me?
 - get ready
 - and start
 - haha
+- modify it on another pc
