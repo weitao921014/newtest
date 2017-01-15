@@ -11,10 +11,11 @@ I am trying to control the powerful tool. Can you help me?
 - modify it on another pc
 
 ## when i merger master and iss3  
-
+<pre>
 >  <<<<<<< HEAD  
 >  - git branch iss3  
 >  =======  
 >  - add a new branch iss1  
 >  - git branch iss2  
 >  >>>>>>> iss2  
+</pre>
