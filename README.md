@@ -10,3 +10,4 @@ I am trying to control the powerful tool. Can you help me?
 - haha
 - modify it on another pc
 - add a new branch iss1
+- git branch iss2
