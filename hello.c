@@ -6,4 +6,5 @@
 
 int main(){
 	printf("Hello, github");
+	return 0;
 }
