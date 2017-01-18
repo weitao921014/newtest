@@ -10,7 +10,7 @@ I am trying to control the powerful tool. Can you help me?
 - haha
 - modify it on another pc
 
-## when i merger master and iss3  
+## when i merge master and iss3  
 <pre>
 >  <<<<<<< HEAD  
 >  - git branch iss3  
@@ -21,3 +21,6 @@ I am trying to control the powerful tool. Can you help me?
 </pre>
 
 ## add a new line at my company
+
+- I add a new line
+- Oh, it's time to end up this year
