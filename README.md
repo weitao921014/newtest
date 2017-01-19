@@ -24,3 +24,4 @@ I am trying to control the powerful tool. Can you help me?
 
 - I add a new line
 - Oh, it's time to end up this year
+- it's thursday
