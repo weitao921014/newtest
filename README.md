@@ -26,3 +26,4 @@ I am trying to control the powerful tool. Can you help me?
 - Oh, it's time to end up this year
 - it's thursday
 - a new year, now I get back
+- it's time 2017/02/06
