@@ -28,3 +28,4 @@ I am trying to control the powerful tool. Can you help me?
 - a new year, now I get back
 - it's time 2017/02/06
 - at least 2 commits
+- change config
