@@ -29,3 +29,7 @@ I am trying to control the powerful tool. Can you help me?
 - it's time 2017/02/06
 - at least 2 commits
 - change config
+
+## 现在，我在Ubuntu系统里安装了中文输入
+
+- 为什么总觉得中文输入法老是会出些问题
