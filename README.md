@@ -34,3 +34,4 @@ I am trying to control the powerful tool. Can you help me?
 
 - 为什么总觉得中文输入法老是会出些问题
 - i'm crazy on android launcher2
+- it's a new day 新的一天
