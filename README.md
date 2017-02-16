@@ -36,3 +36,4 @@ I am trying to control the powerful tool. Can you help me?
 - i'm crazy on android launcher2
 - it's a new day 新的一天
 - recentdays i am making a home app, on android
+- it's another Thi, time goes away
