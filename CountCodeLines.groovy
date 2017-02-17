@@ -42,7 +42,7 @@ def countFiles(File file) {
         if (file.getName().contains(".java")) {
             int line = 0;
             file.eachLine { line += 1; }
-            println("found file [" + file + "] \033[0;32m[" + line + "]\033[0m");
+            println((filecount+1)+" found file [" + file + "] \033[0;32m[" + line + "]\033[0m");
             lines += line;
             filecount += 1;
         }
