@@ -1,8 +1,8 @@
 #!/bin/sh
 echo "############################################################"
-echo "#"
-echo "#		一个Linux下shell文字颜色测试的脚本"
-echo "#"
+echo "#                                                          #"
+echo "		一个Linux下shell文字颜色测试的脚本"
+echo "#                                                          #"
 echo "############################################################"
 for attr in 0 1 22 4 24 5 25 7 27 ; do
 printf "ESC[%s;Foreground;Background : \n" $attr
