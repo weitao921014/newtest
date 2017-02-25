@@ -25,7 +25,7 @@ def countFiles(File file) {
         list.each { countFiles(it) }
     } else {
         if (file.getName().contains(".java")) {
-            int line = 0;
+            final int line = 0;
             file.eachLine { line += 1; }
             lines += line;
             filecount += 1;
